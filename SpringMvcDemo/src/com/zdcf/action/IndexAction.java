@@ -54,6 +54,7 @@ public class IndexAction extends BaseAction{
 		
 //		if(!isMobile()){
 			return "/index/index";
+//		    return "/myBlogIndex";
 //		}else{
 //			List<HashMap<String, Object>> themelist = new ArrayList<HashMap<String, Object>>();
 //			themelist = messageService.findNextTheme(0,10);
